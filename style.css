@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+	background-image: url(https://wallpaperaccess.com/full/85814.jpg);
+}
+span
+{
+	font-size: 12px;
+	color: rgb(5, 135, 107);
+}
+canvas
+{
+	background: white;
+	border-radius: 100px;
+	
+}
